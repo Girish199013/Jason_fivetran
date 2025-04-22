@@ -40,5 +40,5 @@ models:
     # Applies to all files under models/example/
     example:
       +materialized: table
-XML_NEWDATA:
+JSON_DATANEW:
       +materialized: table
